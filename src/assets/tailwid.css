@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  @apply px-5 mx-auto;
+}
+
+body,
+#root {
+  @apply overflow-x-hidden;
+  scroll-behavior: smooth;
+}
+
+.inner-shd {
+  position: relative;
+}
+
+.inner-shd::before,
+.inner-shd::after {
+  content: "";
+  z-index: 100;
+  position: absolute;
+
+  width: 100%;
+  height: 20%;
+}
+
+.inner-shd::before {
+  top: 0;
+  left: 0;
+  background: linear-gradient(#fff, transparent);
+}
+.inner-shd::after {
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(transparent, #fff);
+}
