@@ -3,7 +3,7 @@ import itc from "../../common/Logo_IT_Park_Uzbekistan.svg.png";
 import web from "./Algoritmik_dasturlash_1627468540.png";
 import sovod from "./comp.d7d3082.png";
 import grafik from "./Grafik_dizayn.png";
-import "./kurslar.css";
+// import "./kurslar.css";
 export default function Kurs() {
   return (
     <>
@@ -21,10 +21,10 @@ export default function Kurs() {
               data-aos="fade-up-left"
               className="flex flex-col mb-10 lg:items-start items-center bir"
             >
-              <div className="md:flex w-12 h-12 inline-flex items-center justify-center rounded-full  text-indigo-500 mb-5">
+              <div className="mt-25 md:flex w-12 h-12 inline-flex items-center justify-center rounded-full  text-indigo-500 mb-5">
                 <img src={web} alt="web" />
               </div>
-              <div className="flex-grow ">
+              <div className="flex-grow">
                 <h2 className="   text-gray-900 hover:text-[#7dba28] text-2xl title-font font-medium mb-3">
                   Web Dasturlash
                 </h2>

@@ -15,7 +15,7 @@ export default function About() {
               <Logo />
             </div>
             <p data-aos="fade-up" className="mt-6 leading-relaxed text-lg">
-              iT Center Beshariq 2020-yil 00-oyda ochilgan <br />
+              iT Center Beshariq 2021-yil 1-Noyabrda ochilgan <br />
               Hozirgi kunga kelib markazda tumanning eng yaxshi va malakali
               dasturchilari ishlaydi.<br />
               Bu yerda zamonaviy jihozlar, tekin WiFi va bo'sh vaqtda esa qolib
