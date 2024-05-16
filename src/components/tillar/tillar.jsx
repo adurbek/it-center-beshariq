@@ -20,7 +20,8 @@ export default function Tillar() {
           data-aos="zoom-in-down"
           className="flex justify-center py-20 text-2xl font-bold text-[5vh] text-[#7dba28]"
         >
-          Dasturlash <br /> tillari
+          Dasturlash tillari
+             
         </h1>
 
         <div

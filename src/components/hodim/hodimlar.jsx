@@ -51,13 +51,19 @@ export default function Hodimlar() {
                     pack vaporware.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-xl">
+                    <a className="text-blue-600 text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-xl text-red-600">
+                    <a
+                      href="https://www.instagram.com/n_tursunaliyev/"
+                      className="ml-2 text-2xl text-red-600"
+                    >
                       <GrInstagram />
                     </a>
-                    <a className="ml-2 text-xl text-blue-600">
+                    <a
+                      href="https://t.me/Nodirbek_0114"
+                      className="ml-2 text-2xl text-blue-600"
+                    >
                       <SiTelegram />
                     </a>
                   </span>
@@ -84,13 +90,20 @@ export default function Hodimlar() {
                     pack vaporware.
                   </p>
                   <span className="inline-flex">
-                    <a className="ml-2 text-blue-600 text-xl">
+                    <a className="ml-2 text-blue-600 text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-xl text-red-600">
+
+                    <a
+                      href="https://www.instagram.com/nurbekmakhmudov93/"
+                      className="ml-2 text-2xl text-red-600"
+                    >
                       <GrInstagram />
                     </a>
-                    <a className="ml-2 text-xl text-blue-600">
+                    <a
+                      href="https://t.me/NurbekMakhmudov"
+                      className="ml-2 text-2xl text-blue-600"
+                    >
                       <SiTelegram />
                     </a>
                   </span>
@@ -117,13 +130,16 @@ export default function Hodimlar() {
                     pack vaporware.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-xl">
+                    <a className="text-blue-600 text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-xl text-red-600">
+                    <a className="ml-2 text-2xl text-red-600">
                       <GrInstagram />
                     </a>
-                    <a className="ml-2 text-xl text-blue-600">
+                    <a
+                      href="https://t.me/IBRATJON4469"
+                      className="ml-2 text-2xl text-blue-600"
+                    >
                       <SiTelegram />
                     </a>
                   </span>
@@ -150,13 +166,19 @@ export default function Hodimlar() {
                     pack vaporware.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-xl">
+                    <a className="text-blue-600 text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-xl text-red-600">
+                    <a
+                      href="https://www.instagram.com/muhiddindev/"
+                      className="ml-2 text-2xl text-red-600"
+                    >
                       <GrInstagram />
                     </a>
-                    <a className="ml-2 text-xl text-blue-600">
+                    <a
+                      href="https://t.me/black_hole_225"
+                      className="ml-2 text-2xl text-blue-600"
+                    >
                       <SiTelegram />
                     </a>
                   </span>
@@ -183,13 +205,19 @@ export default function Hodimlar() {
                     pack vaporware.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-xl">
+                    <a className="text-blue-600 text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-xl text-red-600">
+                    <a
+                      href="https://www.instagram.com/johnson_pub/"
+                      className="ml-2 text-2xl text-red-600"
+                    >
                       <GrInstagram />
                     </a>
-                    <a className="ml-2 text-xl text-blue-600">
+                    <a
+                      href="https://t.me/shohbozbek_dev"
+                      className="ml-2 text-2xl text-blue-600"
+                    >
                       <SiTelegram />
                     </a>
                   </span>
@@ -216,13 +244,19 @@ export default function Hodimlar() {
                     pack vaporware.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-xl">
+                    <a className="text-blue-600 text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-xl text-red-600">
+                    <a
+                      href="https://www.instagram.com/durbekdev/"
+                      className="ml-2 text-2xl text-red-600"
+                    >
                       <GrInstagram />
                     </a>
-                    <a className="ml-2 text-xl text-blue-600">
+                    <a
+                      href="https://t.me/durbek_dev"
+                      className="ml-2 text-2xl text-blue-600"
+                    >
                       <SiTelegram />
                     </a>
                   </span>
@@ -249,13 +283,19 @@ export default function Hodimlar() {
                     pack vaporware.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-xl">
+                    <a className="text-blue-600 text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-xl text-red-600">
+                    <a
+                      href="https://www.instagram.com/ibrohimjon.___/"
+                      className="ml-2 text-2xl text-red-600"
+                    >
                       <GrInstagram />
                     </a>
-                    <a className="ml-2 text-xl text-blue-600">
+                    <a
+                      href="https://t.me/Rafikjanov7"
+                      className="ml-2 text-2xl text-blue-600"
+                    >
                       <SiTelegram />
                     </a>
                   </span>

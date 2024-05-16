@@ -6,7 +6,7 @@ export default function Header() {
   const [navbarIsActive, setnavbarIsActive] = useState(false);
 
   return (
-    <nav className="bg-gray-900 dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
+    <nav className="bg-gray-900 dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-900 dark:border-gray-600">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <img src={logo} className="h-8" alt="Flowbite Logo" />
         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
@@ -16,7 +16,7 @@ export default function Header() {
             }}
             data-collapse-toggle="navbar-sticky"
             type="button"
-            className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+            className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-700 rounded-lg md:hidden hover:bg-[#7dba28] focus:outline-none focus:ring-2 focus:ring-[#7dba28] dark:text-gray-700 dark:hover:bg-[#7dba28] dark:focus:ring-gray-700"
             aria-controls="navbar-sticky"
             aria-expanded="false"
           >
@@ -48,7 +48,7 @@ export default function Header() {
           )}
           id="navbar-sticky"
         >
-          <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+          <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium rounded-lg bg-gray-900 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-gray-900 dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
             <li>
               <a
                 href="#bosh"
@@ -61,7 +61,7 @@ export default function Header() {
             <li>
               <a
                 href="#kurslar"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-gray-900 rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 KURSLAR
               </a>
@@ -69,7 +69,7 @@ export default function Header() {
             <li>
               <a
                 href="#reyting"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-gray-900 rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 REYTING
               </a>
@@ -77,7 +77,7 @@ export default function Header() {
             <li>
               <a
                 href="#hodimlar"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-gray-900 rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 HODIMLAR
               </a>
@@ -85,7 +85,7 @@ export default function Header() {
             <li>
               <a
                 href="#haqida"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-gray-900 rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 MARKAZ HAQIDA
               </a>
@@ -93,7 +93,7 @@ export default function Header() {
             <li>
               <a
                 href="#boglanish"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-gray-900 rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 BOG'LANISH
               </a>
