@@ -38,12 +38,13 @@ export default function BannerTrailerItem(props) {
             data-aos="fade-up"
             className="btn rounded-full w-[260px] h-[55px] justify-center flex mt-11 !mx-auto items-center bg-[#7dba28] hover:bg-transparent hover:border-[2.5px] hover:border-green-300 transition-all  duration-500 text-2xl text-white border-spacing-0"
           >
-            Batafsil
+            {" "}
+            <a href="#haqida">Batafsil</a>
           </button>
         </div>
       </div>
       <div className="w-full h-[100vh]">
-        <NetComponent className="opacity-10" /> 
+        <NetComponent className="opacity-10" />
       </div>
     </div>
   );
