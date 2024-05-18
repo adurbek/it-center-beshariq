@@ -7,7 +7,7 @@ import grafik from "./Grafik_dizayn.png";
 export default function Kurs() {
   return (
     <>
-      <section id="kurslar" className="text-gray-500 body-font py-16">
+      <section id="kurslar" className="cursor-default text-gray-500 body-font py-16">
         <div className="container px-5 py-24 mx-auto flex flex-wrap">
           <div className="hidden lg:block lg:w-1/2 w-full mb-10 lg:mb-0 rounded-full overflow-hidden">
             <img
