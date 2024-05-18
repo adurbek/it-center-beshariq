@@ -21,7 +21,6 @@ export default function Tillar() {
           className="flex justify-center py-20 text-2xl font-bold text-[5vh] text-[#7dba28]"
         >
           Dasturlash tillari
-             
         </h1>
 
         <div
@@ -31,42 +30,42 @@ export default function Tillar() {
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-200"
               src={html}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={css}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={js}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={tailwind}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={bootstrap}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={jsx}
             />
           </div>
@@ -78,50 +77,46 @@ export default function Tillar() {
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={python}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={php}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={mobile}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={dj}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={ui}
             />
           </div>
           <div className="flex items-center justify-center">
             <img
               alt="testimonial"
-              className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2"
+              className="drop-shadow-2xl w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 hover:bg-gray-100"
               src={github}
             />
           </div>
         </div>
-
-        
-        
-       
       </section>
     </>
   );

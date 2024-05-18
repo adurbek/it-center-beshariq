@@ -27,8 +27,10 @@ function MyApp() {
       easing: "ease-in-out",
     });
   }, []);
+
   return (
     <>
+  
       <Header />
       <BannerTrailerItem />
       <Kurs />

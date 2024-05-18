@@ -4,7 +4,7 @@ import clsx from "clsx";
 
 export default function Header() {
   const [navbarIsActive, setnavbarIsActive] = useState(false);
-
+  
   return (
     <nav className="bg-gray-900 dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-900 dark:border-gray-600">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
@@ -61,7 +61,7 @@ export default function Header() {
             <li>
               <a
                 href="#kurslar"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-white"
               >
                 KURSLAR
               </a>
@@ -69,7 +69,7 @@ export default function Header() {
             <li>
               <a
                 href="#reyting"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-white"
               >
                 REYTING
               </a>
@@ -77,7 +77,7 @@ export default function Header() {
             <li>
               <a
                 href="#hodimlar"
-                className="block py-2 px-3 text-gray-900 rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 HODIMLAR
               </a>
@@ -85,7 +85,7 @@ export default function Header() {
             <li>
               <a
                 href="#haqida"
-                className="block py-2 px-3 text-gray-900 rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 MARKAZ HAQIDA
               </a>
@@ -93,13 +93,18 @@ export default function Header() {
             <li>
               <a
                 href="#boglanish"
-                className="block py-2 px-3 text-gray-900 rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 BOG'LANISH
               </a>
             </li>
           </ul>
         </div>
+       
+      </div>
+
+      <div>
+        
       </div>
     </nav>
   );

@@ -21,9 +21,11 @@ export default function Reytinglar() {
             </p>
           </div>
           <div className="flex flex-wrap -m-4 text-center">
-            <div data-aos="fade-up" className="p-4 md:w-1/4 sm:w-1/2 w-full">
-              <div className="border-2 border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
-              
+            <div
+              data-aos="fade-up"
+              className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
+            >
+              <div className="border-1 border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -42,8 +44,11 @@ export default function Reytinglar() {
                 <p className="leading-relaxed">Hodimlar</p>
               </div>
             </div>
-            <div data-aos="fade-up" className="p-4 md:w-1/4 sm:w-1/2 w-full">
-              <div className="border-2 border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
+            <div
+              data-aos="fade-up"
+              className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
+            >
+              <div className="border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -63,8 +68,11 @@ export default function Reytinglar() {
                 <p className="leading-relaxed">O'quvchilar</p>
               </div>
             </div>
-            <div data-aos="fade-up" className="p-4 md:w-1/4 sm:w-1/2 w-full">
-              <div className="border-2 border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
+            <div
+              data-aos="fade-up"
+              className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
+            >
+              <div className="border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -83,8 +91,11 @@ export default function Reytinglar() {
                 <p className="leading-relaxed">Loyihalar</p>
               </div>
             </div>
-            <div data-aos="fade-up" className="p-4 md:w-1/4 sm:w-1/2 w-full">
-              <div className="border-2 border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
+            <div
+              data-aos="fade-up"
+              className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
+            >
+              <div className="border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"

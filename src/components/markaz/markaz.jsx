@@ -28,10 +28,13 @@ export default function Markaz() {
                   src={rasm}
                 />
               </div>
-              <div data-aos="fade-left" className="md:p-2 p-1 w-1/2">
+              <div
+                data-aos="fade-left"
+                className=" md:p-2 p-1 w-1/2"
+              >
                 <img
                   alt="gallery"
-                  className="w-full object-cover h-full object-center block"
+                  className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105 duration-500 w-full object-cover h-full object-center block"
                   src={rasm2}
                 />
               </div>

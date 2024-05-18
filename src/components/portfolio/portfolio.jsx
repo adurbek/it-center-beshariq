@@ -16,11 +16,10 @@ export default function Portfolio() {
               >
                 Portfolio
               </h2>
-             
             </div>
             <a
               href="#"
-              className="inline-block rounded-lg border bg-white px-4 py-2 text-center text-sm font-semibold text-gray-500 outline-none ring-indigo-300 transition duration-100 hover:bg-gray-100 focus-visible:ring active:bg-gray-200 md:px-8 md:py-3 md:text-base"
+              className="inline-block rounded-lg border bg-[#7dba28] px-4 py-2 text-center text-sm font-semibold text-white hover:text-black outline-none ring-indigo-300 transition duration-100 hover:bg-white focus-visible:ring active:bg-gray-200 hover:border-green-400 md:px-8 md:py-3 md:text-base"
             >
               Web site
             </a>
@@ -38,7 +37,7 @@ export default function Portfolio() {
               />
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50" />
               <span className="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-               NITC
+                NITC
               </span>
             </a>
 

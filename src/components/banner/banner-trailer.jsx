@@ -43,7 +43,7 @@ export default function BannerTrailerItem(props) {
         </div>
       </div>
       <div className="w-full h-[100vh]">
-        <NetComponent className="opacity-10" />
+        <NetComponent className="opacity-10" /> 
       </div>
     </div>
   );
