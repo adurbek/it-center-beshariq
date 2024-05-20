@@ -47,8 +47,8 @@ export default function Hodimlar() {
                   </h2>
                   <h3 className="text-white mb-3">Ish Boshqaruvchi</h3>
                   <p className="mb-4 text-white">
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                    Birnima unversitetini tamomlagan 4 yillik ish tajribasiga
+                    ega ish boshqaruvchi.
                   </p>
                   <span className="inline-flex">
                     <a className="text-blue-600 text-2xl">
@@ -86,8 +86,8 @@ export default function Hodimlar() {
                   </h2>
                   <h3 className="text-white mb-3">Web Full stek developer</h3>
                   <p className="mb-4 text-white">
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                    Mrakazning eng tajribali dasturchisi 6 yildan oshiq malakaga
+                    ega.
                   </p>
                   <span className="inline-flex">
                     <a className="ml-2 text-blue-600 text-2xl">
@@ -126,8 +126,8 @@ export default function Hodimlar() {
                   </h2>
                   <h3 className="text-white mb-3"> Frontend developer</h3>
                   <p className="mb-4 text-white">
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                    Frontend dasturlash va yuqori darajadadi tartib intizom ko'p
+                    yillik tajriba.
                   </p>
                   <span className="inline-flex">
                     <a className="text-blue-600 text-2xl">
@@ -160,10 +160,10 @@ export default function Hodimlar() {
                   <h2 className="title-font font-medium text-lg text-white">
                     Muhiddin
                   </h2>
-                  <h3 className="text-white mb-3">Beckend developer</h3>
+                  <h3 className="text-white mb-3">Web Full stek developer</h3>
                   <p className="mb-4 text-white">
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                    Full stek dasturchi bir biri bilan inoqalik va kuchli
+                    dasturchi bolishni o'rgatadi.
                   </p>
                   <span className="inline-flex">
                     <a className="text-blue-600 text-2xl">
@@ -201,8 +201,8 @@ export default function Hodimlar() {
                   </h2>
                   <h3 className="text-white mb-3">Mobile developer</h3>
                   <p className="mb-4 text-white">
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                    Mobil dastuchi va kompyuter sovodxonligi bo'yicha eng yaxshi
+                    dasturchi.
                   </p>
                   <span className="inline-flex">
                     <a className="text-blue-600 text-2xl">
@@ -240,8 +240,7 @@ export default function Hodimlar() {
                   </h2>
                   <h3 className="text-white mb-3">Frontend developer</h3>
                   <p className="mb-4 text-white">
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                    Frontent boyicha yosh va eng yaxshi dasturchilardan bir.
                   </p>
                   <span className="inline-flex">
                     <a className="text-blue-600 text-2xl">
@@ -279,8 +278,7 @@ export default function Hodimlar() {
                   </h2>
                   <h3 className="text-white mb-3">Frontend developer</h3>
                   <p className="mb-4 text-white">
-                    DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                    pack vaporware.
+                    Frontend va kompyuter sovodxonligi boyicha dasturchi.
                   </p>
                   <span className="inline-flex">
                     <a className="text-blue-600 text-2xl">
