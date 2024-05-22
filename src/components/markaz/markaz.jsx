@@ -21,27 +21,24 @@ export default function Markaz() {
           </div>
           <div className="flex flex-wrap md:-m-2 -m-1">
             <div className="flex flex-wrap w-1/2">
-              <div data-aos="fade-left" className="md:p-2 p-1 w-1/2">
+              <div data-aos="fade-right" className="md:p-2 p-1 w-1/2">
                 <img
                   alt="gallery"
-                  className="w-full object-cover h-full object-center block"
+                  className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105 duration-500 w-full object-cover h-full object-center block"
                   src={rasm}
                 />
               </div>
-              <div
-                data-aos="fade-left"
-                className=" md:p-2 p-1 w-1/2"
-              >
+              <div data-aos="fade-right" className=" md:p-2 p-1 w-1/2">
                 <img
                   alt="gallery"
                   className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105 duration-500 w-full object-cover h-full object-center block"
                   src={rasm2}
                 />
               </div>
-              <div data-aos="fade-left" className="md:p-2 p-1 w-full">
+              <div data-aos="fade-right" className="md:p-2 p-1 w-full">
                 <img
                   alt="gallery"
-                  className="w-full h-full object-cover object-center block"
+                  className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105 duration-500 w-full h-full object-cover object-center block"
                   src={rasm3}
                 />
               </div>
@@ -50,7 +47,7 @@ export default function Markaz() {
               <div data-aos="fade-left" className="md:p-2 p-1 w-full">
                 <img
                   alt="gallery"
-                  className="w-full h-full object-cover object-center block"
+                  className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105 duration-500 w-full h-full object-cover object-center block"
                   src={rasm4}
                 />
               </div>
@@ -58,14 +55,14 @@ export default function Markaz() {
                 <img
                   alt="gallery"
                   l
-                  className="w-full object-cover h-full object-center block"
+                  className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105 duration-500 w-full object-cover h-full object-center block"
                   src={rasm5}
                 />
               </div>
               <div data-aos="fade-left" className="md:p-2 p-1 w-1/2">
                 <img
                   alt="gallery"
-                  className="w-full object-cover h-full object-center block"
+                  className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-105 duration-500 w-full object-cover h-full object-center block"
                   src={rasm6}
                 />
               </div>

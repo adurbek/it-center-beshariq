@@ -3,11 +3,22 @@ import itc from "../../common/Logo_IT_Park_Uzbekistan.svg.png";
 import web from "./Algoritmik_dasturlash_1627468540.png";
 import sovod from "./comp.d7d3082.png";
 import grafik from "./Grafik_dizayn.png";
+import poy from "./poy2.png"
 // import "./kurslar.css";
 export default function Kurs() {
   return (
     <>
-      <section id="kurslar" className="cursor-default text-gray-500 body-font py-16">
+      <marquee
+        scrollamount="10"
+        direction="right"
+        className="sm:text-4xl text-white bg-[#7dba28] font-semibold text-2xl"
+      >
+        {/* <img src={} alt="" /> */}
+      </marquee>
+      <section
+        id="kurslar"
+        className="cursor-default text-gray-500 body-font py-16"
+      >
         <div className="container px-5 py-24 mx-auto flex flex-wrap">
           <div className="hidden lg:block lg:w-1/2 w-full mb-10 lg:mb-0 rounded-full overflow-hidden">
             <img

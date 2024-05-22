@@ -93,7 +93,8 @@ export default function Header() {
             <li>
               <a
                 href="#boglanish"
-                className="block py-2 px-3 text-white rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white
+                 rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 BOG'LANISH
               </a>

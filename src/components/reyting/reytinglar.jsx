@@ -4,6 +4,15 @@ export default function Reytinglar() {
   return (
     <>
       <section id="reyting" className="text-gray-600 body-font">
+        <marquee
+          data-aos="fade-left"
+          scrollamount="10"
+          className="sm:text-4xl text-white bg-[#7dba28] font-semibold text-2xl"
+        >
+          IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER
+          BESHARIQ. IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER
+          BESHARIQ.IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER BESHARIQ.
+        </marquee>
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20 ">
             <h1
@@ -115,6 +124,16 @@ export default function Reytinglar() {
             </div>
           </div>
         </div>
+        <marquee
+          data-aos="fade-right"
+          scrollamount="10"
+          direction="right"
+          className="sm:text-4xl text-white bg-[#7dba28] font-semibold text-2xl"
+        >
+          IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER
+          BESHARIQ. IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER
+          BESHARIQ.IT CENTER BESHARIQ. IT CENTER BESHARIQ. IT CENTER BESHARIQ.
+        </marquee>
       </section>
     </>
   );

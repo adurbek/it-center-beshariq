@@ -43,7 +43,7 @@ export default function Portfolio() {
 
             <a
               href="#"
-              className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80"
+              className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-900 shadow-lg md:col-span-2 md:h-80"
             >
               <img
                 src={seezntv}
