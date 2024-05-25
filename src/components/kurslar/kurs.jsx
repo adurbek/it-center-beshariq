@@ -36,27 +36,14 @@ export default function Kurs() {
                 <img src={web} alt="web" />
               </div>
               <div className="flex-grow">
-                <h2 className="   text-gray-900 hover:text-[#7dba28] text-2xl title-font font-medium mb-3">
+                <h2 className="text-[#7dba28] text-2xl title-font font-medium mb-3">
                   Web Dasturlash
                 </h2>
                 <p className="leading-relaxed text-base">
                   Web dasturlash kursida ikki yo'nalishda o'qish imkoniyatiga
                   egasiz.
                 </p>
-                <a className="mt-3 text-[#7dba28] inline-flex items-center">
-                  Batafsil
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    className="w-4 h-4 ml-2"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7" />
-                  </svg>
-                </a>
+                
               </div>
             </div>
             <div
@@ -67,27 +54,14 @@ export default function Kurs() {
                 <img src={sovod} alt="savod" />
               </div>
               <div className="flex-grow">
-                <h2 className="text-gray-900 hover:text-[#7dba28] text-2xl title-font font-medium mb-3">
+                <h2 className="text-[#7dba28] text-2xl title-font font-medium mb-3">
                   Kompyuter sovodxonligi
                 </h2>
                 <p className="leading-relaxed text-base">
                   Kompyuter sovodxonligida sizga kompyuterni 0 dan o'rganish
                   imkoniga ega bo'lasiz.
                 </p>
-                <a className="mt-3 text-[#7dba28] inline-flex items-center">
-                  Batafsil
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    className="w-4 h-4 ml-2"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7" />
-                  </svg>
-                </a>
+                
               </div>
             </div>
             <div
@@ -98,27 +72,14 @@ export default function Kurs() {
                 <img src={grafik} alt="" />
               </div>
               <div className="flex-grow">
-                <h2 className="text-gray-900 hover:text-[#7dba28] text-2xl title-font font-medium mb-3">
+                <h2 className="text-[#7dba28] text-2xl title-font font-medium mb-3">
                   Grafik Dizayn
                 </h2>
                 <p className="leading-relaxed text-base">
                   Grafik dizayn kursimida UI|UX dizayini va yana bir qancha
                   dizayinlar.
                 </p>
-                <a className="mt-3 text-[#7dba28] inline-flex items-center">
-                  Batafsil
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    className="w-4 h-4 ml-2"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7" />
-                  </svg>
-                </a>
+                
               </div>
             </div>
           </div>

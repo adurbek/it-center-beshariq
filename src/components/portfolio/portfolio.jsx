@@ -19,7 +19,7 @@ export default function Portfolio() {
             </div>
             <a
               href="#"
-              className="inline-block rounded-lg border bg-[#7dba28] px-4 py-2 text-center text-sm font-semibold text-white hover:text-black outline-none ring-indigo-300 transition duration-100 hover:bg-white focus-visible:ring active:bg-gray-200 hover:border-green-400 md:px-8 md:py-3 md:text-base"
+              className=" inline-block rounded-lg border bg-[#7dba28] px-4 py-2 text-center text-sm font-semibold text-white hover:text-black outline-none ring-indigo-300 transition duration-700 hover:bg-white focus-visible:ring active:bg-gray-200 hover:border-green-400 md:px-8 md:py-3 md:text-base"
             >
               Web site
             </a>
@@ -30,10 +30,10 @@ export default function Portfolio() {
               className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80"
             >
               <img
-                src={nitcuz}
+                src={macmarket}
                 loading="lazy"
                 alt="Photo by Minh Pham"
-                className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+                className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110 sm:object-cover"
               />
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50" />
               <span className="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
@@ -46,7 +46,7 @@ export default function Portfolio() {
               className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-900 shadow-lg md:col-span-2 md:h-80"
             >
               <img
-                src={seezntv}
+                src={macmarket}
                 loading="lazy"
                 alt="Photo by Magicle"
                 className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"

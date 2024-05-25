@@ -34,7 +34,7 @@ export default function Hodimlar() {
             <div className="p-4 lg:w-1/4 md:w-1/2">
               <div
                 data-aos="fade-up"
-                className=" bg-[#7dba28] rounded-xl h-full flex flex-col items-center text-center"
+                className=" shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)]0 bg-[#7dba28] rounded-xl h-full flex flex-col items-center text-center transition-all duration-300"
               >
                 <img
                   alt="team"
@@ -51,18 +51,18 @@ export default function Hodimlar() {
                     ega ish boshqaruvchi.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-2xl">
+                    <a className="text-white text-2xl">
                       <ImFacebook2 />
                     </a>
                     <a
                       href="https://www.instagram.com/n_tursunaliyev/"
-                      className="ml-2 text-2xl text-red-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <GrInstagram />
                     </a>
                     <a
                       href="https://t.me/Nodirbek_0114"
-                      className="ml-2 text-2xl text-blue-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <SiTelegram />
                     </a>
@@ -90,19 +90,19 @@ export default function Hodimlar() {
                     ega.
                   </p>
                   <span className="inline-flex">
-                    <a className="ml-2 text-blue-600 text-2xl">
+                    <a className="ml-2 text-white text-2xl">
                       <ImFacebook2 />
                     </a>
 
                     <a
                       href="https://www.instagram.com/nurbekmakhmudov93/"
-                      className="ml-2 text-2xl text-red-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <GrInstagram />
                     </a>
                     <a
                       href="https://t.me/NurbekMakhmudov"
-                      className="ml-2 text-2xl text-blue-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <SiTelegram />
                     </a>
@@ -130,15 +130,15 @@ export default function Hodimlar() {
                     yillik tajriba.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-2xl">
+                    <a className="text-white text-2xl">
                       <ImFacebook2 />
                     </a>
-                    <a className="ml-2 text-2xl text-red-600">
+                    <a className="ml-2 text-2xl text-white">
                       <GrInstagram />
                     </a>
                     <a
                       href="https://t.me/IBRATJON4469"
-                      className="ml-2 text-2xl text-blue-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <SiTelegram />
                     </a>
@@ -166,18 +166,18 @@ export default function Hodimlar() {
                     dasturchi bolishni o'rgatadi.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-2xl">
+                    <a className="text-white text-2xl">
                       <ImFacebook2 />
                     </a>
                     <a
                       href="https://www.instagram.com/muhiddindev/"
-                      className="ml-2 text-2xl text-red-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <GrInstagram />
                     </a>
                     <a
                       href="https://t.me/black_hole_225"
-                      className="ml-2 text-2xl text-blue-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <SiTelegram />
                     </a>
@@ -205,18 +205,18 @@ export default function Hodimlar() {
                     dasturchi.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-2xl">
+                    <a className="text-white text-2xl">
                       <ImFacebook2 />
                     </a>
                     <a
                       href="https://www.instagram.com/johnson_pub/"
-                      className="ml-2 text-2xl text-red-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <GrInstagram />
                     </a>
                     <a
                       href="https://t.me/shohbozbek_dev"
-                      className="ml-2 text-2xl text-blue-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <SiTelegram />
                     </a>
@@ -243,18 +243,18 @@ export default function Hodimlar() {
                     Frontent boyicha yosh va eng yaxshi dasturchilardan bir.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-2xl">
+                    <a className="text-white text-2xl">
                       <ImFacebook2 />
                     </a>
                     <a
                       href="https://www.instagram.com/durbekdev/"
-                      className="ml-2 text-2xl text-red-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <GrInstagram />
                     </a>
                     <a
                       href="https://t.me/durbek_dev"
-                      className="ml-2 text-2xl text-blue-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <SiTelegram />
                     </a>
@@ -281,18 +281,18 @@ export default function Hodimlar() {
                     Frontend va kompyuter sovodxonligi boyicha dasturchi.
                   </p>
                   <span className="inline-flex">
-                    <a className="text-blue-600 text-2xl">
+                    <a className="text-white text-2xl">
                       <ImFacebook2 />
                     </a>
                     <a
                       href="https://www.instagram.com/ibrohimjon.___/"
-                      className="ml-2 text-2xl text-red-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <GrInstagram />
                     </a>
                     <a
                       href="https://t.me/Rafikjanov7"
-                      className="ml-2 text-2xl text-blue-600"
+                      className="ml-2 text-2xl text-white"
                     >
                       <SiTelegram />
                     </a>

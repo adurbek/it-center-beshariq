@@ -34,7 +34,7 @@ export default function Reytinglar() {
               data-aos="fade-up"
               className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
             >
-              <div className="border-1 border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
+              <div className="border-1 border-gray-200 px-4 py-6 rounded-lg transition duration-500 hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -44,8 +44,9 @@ export default function Reytinglar() {
                   className="text-[#7dba28] w-12 h-12 mb-3 inline-block"
                   viewBox="0 0 24 24"
                 >
-                  <path d="M8 17l4 4 4-4m-4-5v9" />
-                  <path d="M20.88 18.09A5 5 0 0018 9h-1.26A8 8 0 103 16.29" />
+                  <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2" />
+                  <circle cx={9} cy={7} r={4} />
+                  <path d="M23 21v-2a4 4 0 00-3-3.87m-4-12a4 4 0 010 7.75" />
                 </svg>
                 <h2 className="title-font font-medium text-3xl text-gray-900">
                   8
@@ -57,7 +58,7 @@ export default function Reytinglar() {
               data-aos="fade-up"
               className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
             >
-              <div className="border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
+              <div className="border-gray-200 px-4 py-6 rounded-lg transition duration-500 hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -81,7 +82,7 @@ export default function Reytinglar() {
               data-aos="fade-up"
               className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
             >
-              <div className="border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
+              <div className="border-gray-200 px-4 py-6 rounded-lg transition duration-500 hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"
@@ -104,7 +105,7 @@ export default function Reytinglar() {
               data-aos="fade-up"
               className="drop-shadow-2xl p-4 md:w-1/4 sm:w-1/2 w-full"
             >
-              <div className="border-gray-200 px-4 py-6 rounded-lg hover:bg-gray-100">
+              <div className="border-gray-200 px-4 py-6 rounded-lg transition duration-500 hover:bg-gray-100">
                 <svg
                   fill="none"
                   stroke="currentColor"

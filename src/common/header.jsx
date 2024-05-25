@@ -52,7 +52,7 @@ export default function Header() {
             <li>
               <a
                 href="#bosh"
-                className="block py-2 px-3 text-white bg-[#7dba28] rounded md:bg-transparent md:text-[#7dba28] md:p-0 md:dark:text-[#7dba28]"
+                className="block py-2 px-3 text-[#7dba28] rounded md:bg-transparent md:text-[#7dba28] md:p-0 md:dark:text-[#7dba28]"
                 aria-current="page"
               >
                 BOSH SAHIFA
@@ -61,7 +61,7 @@ export default function Header() {
             <li>
               <a
                 href="#kurslar"
-                className="block py-2 px-3 text-white rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-white"
+                className="block py-2 px-3 text-white rounded  md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:text-[#7dba28] dark:hover:text-[#7dba28] md:dark:hover:bg-transparent dark:border-white"
               >
                 KURSLAR
               </a>
@@ -69,7 +69,7 @@ export default function Header() {
             <li>
               <a
                 href="#reyting"
-                className="block py-2 px-3 text-white rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-white"
+                className="block py-2 px-3 text-white rounded  md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white  dark:hover:text-[#7dba28] md:dark:hover:bg-transparent dark:border-white"
               >
                 REYTING
               </a>
@@ -77,7 +77,7 @@ export default function Header() {
             <li>
               <a
                 href="#hodimlar"
-                className="block py-2 px-3 text-white rounded hover:bg-[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white rounded  md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:text-[#7dba28] md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 HODIMLAR
               </a>
@@ -85,7 +85,7 @@ export default function Header() {
             <li>
               <a
                 href="#haqida"
-                className="block py-2 px-3 text-white rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                className="block py-2 px-3 text-white rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:text-[#7dba28]  md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 MARKAZ HAQIDA
               </a>
@@ -94,19 +94,16 @@ export default function Header() {
               <a
                 href="#boglanish"
                 className="block py-2 px-3 text-white
-                 rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:bg-[#7dba28] dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+                 rounded hover:[#7dba28] md:hover:bg-transparent md:hover:text-[#7dba28] md:p-0 md:dark:hover:text-[#7dba28] dark:text-white dark:hover:text-[#7dba28]  md:dark:hover:bg-transparent dark:border-gray-700"
               >
                 BOG'LANISH
               </a>
             </li>
           </ul>
         </div>
-       
       </div>
 
-      <div>
-        
-      </div>
+      <div></div>
     </nav>
   );
 }

@@ -1,0 +1,8 @@
+/* .btn:hover{
+    transition-duration: 1s;
+} */
+
+.hero__btn{
+    transition: 0.5s !important;
+
+}

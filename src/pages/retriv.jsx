@@ -30,7 +30,7 @@ export default function Retriv() {
               className="drop-shadow-2xl p-2 lg:w-1/4 md:w-1/2 w-full"
             >
               <a href="https://t.me/itcbeshariqbot_bot">
-                <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg hover:bg-gray-100">
+                <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg transition duration-500 hover:bg-gray-100">
                   <img
                     alt="team"
                     className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
@@ -51,7 +51,7 @@ export default function Retriv() {
               className="drop-shadow-2xl p-2 lg:w-1/4 md:w-1/2 w-full"
             >
               <a href="https://www.instagram.com/itcenterbeshariq/">
-                <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg hover:bg-gray-100">
+                <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg transition duration-700 hover:bg-gray-100">
                   <img
                     alt="team"
                     className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
@@ -66,11 +66,11 @@ export default function Retriv() {
                 </div>
               </a>
             </div>
-            <div className="drop-shadow-2xl p-2 lg:w-1/4 md:w-1/2 w-full">
-              <div
-                data-aos="fade-up"
-                className="h-full flex items-center border-gray-200 border p-4 rounded-lg hover:bg-gray-100"
-              >
+            <div
+              data-aos="fade-up"
+              className="drop-shadow-2xl p-2 lg:w-1/4 md:w-1/2 w-full"
+            >
+              <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg transition duration-700  hover:bg-gray-100">
                 <img
                   alt="team"
                   className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
@@ -84,12 +84,12 @@ export default function Retriv() {
                 </div>
               </div>
             </div>
-            <div className="drop-shadow-2xl p-2 lg:w-1/4 md:w-1/2 w-full">
+            <div
+              data-aos="fade-up"
+              className="drop-shadow-2xl p-2 lg:w-1/4 md:w-1/2 w-full"
+            >
               <a href="https://www.google.com/maps/place/Beshariq+IT+CENTER+(Powered+by+IT+Park)/@40.4366727,70.6082832,99m/data=!3m1!1e3!4m6!3m5!1s0x38ba9b043b856e75:0x95c5af26c798a0c4!8m2!3d40.4363952!4d70.6081471!16s%2Fg%2F11rtpks__z?hl=uz&entry=ttu">
-                <div
-                  data-aos="fade-up"
-                  className="h-full flex items-center border-gray-200 border p-4 rounded-lg hover:bg-gray-100"
-                >
+                <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg transition duration-700 hover:bg-gray-100">
                   <img
                     alt="team"
                     className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
